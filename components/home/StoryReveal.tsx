@@ -6,7 +6,7 @@ const images = [
   "/images/home/storyreveal/cp4.jpg",,
   "/images/home/storyreveal/cp3.jpg",
 "/images/home/storyreveal/cp2.jpg",
-  "/images/home/storyreveal/cp.jpg",
+  "/images/home/storyreveal/cp11.jpg",
 ];
 
 export default function StoryReveal() {
